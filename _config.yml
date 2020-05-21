@@ -42,3 +42,6 @@ texture:
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
+
+theme: texture
