@@ -17,7 +17,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: serinchung
-  tagline: Developer. Designer
+  tagline: SKKU 2018310044 
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
